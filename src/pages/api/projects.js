@@ -1,4 +1,4 @@
-const SERVER_URL = 'http://localhost:3002'
+const SERVER_URL = 'https://fullstack-3-backend.herokuapp.com/'
 
 export const getProjects = async () => {
   try {
