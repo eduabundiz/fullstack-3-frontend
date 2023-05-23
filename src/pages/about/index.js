@@ -1,4 +1,4 @@
-import PageDescription  from "@/components/PageDescription";
+import PageDescription  from "../../components/PageDescription";
 import { Button, Chip, Grid, Stack } from "@mui/material";
 import { useRouter } from "next/router";
 
